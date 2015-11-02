@@ -1,8 +1,8 @@
+#!/usr/bin/perl
 #
 # Copyright (c) 2015 by Husam Hebaishi. All Rights Reserved.
 #
 
-#!/usr/bin/perl
 # This is the latex block that the filenames are inserted into
 # %f = actual filename, %e = filename with underscores escaped
 $text = "";
